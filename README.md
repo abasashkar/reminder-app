@@ -1,6 +1,5 @@
 # Reminder_app
 
-
 ## Description
 An efficient reminder project designed to help you stay organized and never miss important tasks or events. With this project, you can easily manage your daily schedule, set timely reminders, and maintain productivity effortlessly.
 
@@ -13,7 +12,7 @@ An efficient reminder project designed to help you stay organized and never miss
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/afluxmhd/reminder-app.git
+git clone https://github.com/abasashkar/reminder-app.git
 ```
 
 2. Navigate to the project directory:
@@ -21,34 +20,34 @@ git clone https://github.com/afluxmhd/reminder-app.git
 cd reminder-app
 ```
 
-4. Install the required dependencies:
+3. Install the required dependencies:
 ```bash
 flutter pub get
 ```
 
-5. Open the project in your preferred Flutter IDE or editor.
-6. Run the app on your connected device or emulator:
+4. Open the project in your preferred Flutter IDE or editor.
+5. Run the app on your connected device or emulator:
 ```bash
 flutter run
 ```
 
 ## Features
 
-### Intuitive Home Screen
-- The app features a simple user interface on the home screen, including a convenient reminder setting button for easy and quick scheduling
+### User-Friendly Home Screen
+- The app showcases a straightforward user interface on the home screen, featuring a handy reminder setting button for effortless and rapid scheduling.
 
-###  Upcoming Reminder Overview
-- It provides a clear overview of all upcoming reminders, ensuring you never miss an important event.
+### Comprehensive Upcoming Reminders View
+- The app offers a detailed overview of all forthcoming reminders, ensuring you are always informed and never miss an essential event.
 
-### Automated Alerts and Completion
-- The app sends timely alert notifications with sound for each reminder and automatically marks them as completed once their set time has elapsed
-
-
+### Automatic Alerts and Task Completion
+- The app dispatches timely alert notifications with accompanying sound for each reminder.
+- Reminders are automatically marked as completed once their designated time has passed.
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/afluxmhd/reminder-app/assets/93920274/8e1d8750-6a6f-4677-8bfc-26c988558656" width="24%" />
-  <img src="https://github.com/afluxmhd/reminder-app/assets/93920274/dc30d3b9-54cd-4eac-84e3-707bf5edc4fa" width="24%" />
+  <img src="https://github.com/abasashkar/reminder-app/assets/93979684/27a23586-551a-4b9e-81a0-a316bf5b7b0e" width="24%" />
+  <img src="https://github.com/abasashkar/reminder-app/assets/93979684/76080a29-0595-4fa7-b175-4eeb533d4a60" width="24%" />
+    <img src="https://github.com/abasashkar/reminder-app/assets/93979684/1825f310-b361-4ff2-865c-1d3b78619865" width="24%" />
 </p>
 
 
